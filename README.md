@@ -12,6 +12,14 @@ This project helped me learn that replacing legacy code with semantic HTML is im
 
 This webpage (with updated code) is deployed and ready to be viewed. Use DevTools and Inspect on a web browser in order to view the semantic HTML updates and CSS code of the page, when viewing in a web browser such as Chrome.
 
+Code used on this webpage/project can be found at:
+
+https://github.com/apurificato/code-refactor
+
+Deployed/live webpage:
+
+https://apurificato.github.io/code-refactor/
+
 ## Features
 
 This webpage has working anchor links in the navigation that will take the user to the corresponding section of the page, upon click for each of those links in the header's navigation.
@@ -19,6 +27,8 @@ This webpage has working anchor links in the navigation that will take the user 
 ## Credits
 
 Code refactored by Anthony Purificato as part of a Rutgers Coding Bootcamp Assignment to learn the benefits and importance of using semantic HTML.
+
+Original Code was pulled from repository on GitLabs created for Rutgers Coding Bootcamp and accessible by Rutgers Coding Bootcamp students. 
 
 ## License
 
